@@ -1,0 +1,24 @@
+.Outer{
+    margin-top: 50px;
+    display: flex;
+    column-gap: 40px;
+    justify-content: center;
+    align-items: center;
+  }
+  .Inner {
+    box-shadow: rgba(59, 177, 84, 0.25) 0px 6px 12px -2px,
+      rgba(141, 25, 102, 0.3) 0px 3px 7px -3px;
+    padding: 20px;
+    height: 25rem;
+    width: 15rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: auto;
+    grid-gap: 1rem;
+    justify-content: center;
+    align-items: center;
+  }
+  .Inner > img {
+    width: 10rem;
+    height: 12rem;
+  }

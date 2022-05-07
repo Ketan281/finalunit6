@@ -1,0 +1,228 @@
+{
+"books":[
+  {
+    "title":"The Time Machine",
+    "Author":"H.G.Wells",
+    "Desc":"Time machine is a mystry book ",
+    "category":"mystry",
+    "price":"400$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/51YP7fM361S._SX460_BO1,204,203,200_.jpg",
+    "reviews":"4 stars"
+  },
+  {
+    "title":"Treasure Island",
+    "Author":"Robert Louis",
+    "Desc":"Tresure Island is a mystry book ",
+    "category":"mystry",
+    "price":"20$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/512c4l+AUrS._SX258_BO1,204,203,200_.jpg",
+    "reviews":"4.2 stars"
+  },
+  {
+    "title":"Dark Matter",
+    "Author":"Andy weir",
+    "Desc":"Dark Matter is a mystry book ",
+    "category":"mystry",
+    "price":"510$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/51cZtJ0Z+BL._SY344_BO1,204,203,200_.jpg",
+    "reviews":"2 stars"
+  },
+  {
+    "title":"The Code Breaker",
+    "Author":"Walter Issac Son",
+    "Desc":"the code breaker is a technology book ",
+    "category":"technology",
+    "price":"10$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/71Ufx2mJB9L.jpg",
+    "reviews":"3.1 stars"
+  },
+  {
+    "title":"New Thinking",
+    "Author":"Dagogo Altraide",
+    "Desc":"New Thinking is a technology book ",
+    "category":"technology",
+    "price":"100$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/51r5ILsoJTL._SX321_BO1,204,203,200_.jpg",
+    "reviews":"4.5 stars"
+  },
+  {
+    "title":"Life 3.0 ",
+    "Author":"Max Tegmark",
+    "Desc":"Life 3.0 is a technology book ",
+    "category":"technology",
+    "price":"400$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/81stAN0dMBL.jpg",
+    "reviews":"4.1 stars"
+  },
+  {
+    "title":"The Magical Book",
+    "Author":"Sai chander akula",
+    "Desc":"TThe magical book is a mythological book ",
+    "category":"mythology",
+    "price":"40$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/413-sS7Rv6L._SX311_BO1,204,203,200_.jpg",
+    "reviews":"1.2 stars"
+  },
+  {
+    "title":"Kalki",
+    "Author":"Kevin Missal",
+    "Desc":"The kalki is a mythological book ",
+    "category":"mythology",
+    "price":"50$",
+    "image":"https://rukminim1.flixcart.com/image/416/416/kqidx8w0/book/v/z/h/dharmayoddha-kalki-original-imag4g5uygqfmegj.jpeg?q=70",
+    "reviews":"4 stars"
+  },
+  {
+    "title":"The Hidden Hindu",
+    "Author":"Akshat Gupta",
+    "Desc":"the hidden hindu is a mythological book ",
+    "category":"mythology",
+    "price":"420$",
+    "image":"https://images-eu.ssl-images-amazon.com/images/I/51pZWKAG3WL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "reviews":"4.7 stars"
+  },
+  {
+    "title":"Panipat",
+    "Author":"Vishwas Patil",
+    "Desc":"Panipat is a historical book ",
+    "category":"history",
+    "price":"430$",
+    "image":"https://1.bp.blogspot.com/-C5lkL65iOCY/YUDZ7gpqYQI/AAAAAAAANdo/tGTnIsu_ksMlTbGxuo6d8up5z-zNh-ggQCLcBGAsYHQ/w1200-h630-p-k-no-nu/51ppb6OywjL._SX325_BO1%252C204%252C203%252C200_.jpg",
+    "reviews":"4.5 stars"
+  },
+  {
+    "title":"The Conqueror",
+    "Author":"Aditya Iyengar",
+    "Desc":"The Conqueror is a history book ",
+    "category":"history",
+    "price":"70$",
+    "image":"https://images-eu.ssl-images-amazon.com/images/I/51X8RVKhxhL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "reviews":"5 stars"
+  },
+  {
+    "title":"The Man India Missed The Most",
+    "Author":"Bhuvan Lal",
+    "Desc":"The Man India Missed The Most is a history book ",
+    "category":"history",
+    "price":"900$",
+    "image":"https://images-eu.ssl-images-amazon.com/images/I/51Zuxu2R-8L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "reviews":"4.1 stars"
+  }
+],
+"history":[
+  {
+    "title":"Panipat",
+    "Author":"Vishwas Patil",
+    "Desc":"Panipat is a historical book ",
+    "category":"history",
+    "price":"430$",
+    "image":"https://1.bp.blogspot.com/-C5lkL65iOCY/YUDZ7gpqYQI/AAAAAAAANdo/tGTnIsu_ksMlTbGxuo6d8up5z-zNh-ggQCLcBGAsYHQ/w1200-h630-p-k-no-nu/51ppb6OywjL._SX325_BO1%252C204%252C203%252C200_.jpg",
+    "reviews":"4.5 stars"
+  },
+  {
+    "title":"The Conqueror",
+    "Author":"Aditya Iyengar",
+    "Desc":"The Conqueror is a history book ",
+    "category":"history",
+    "price":"70$",
+    "image":"https://images-eu.ssl-images-amazon.com/images/I/51X8RVKhxhL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "reviews":"5 stars"
+  },
+  {
+    "title":"The Man India Missed The Most",
+    "Author":"Bhuvan Lal",
+    "Desc":"The Man India Missed The Most is a history book ",
+    "category":"history",
+    "price":"900$",
+    "image":"https://images-eu.ssl-images-amazon.com/images/I/51Zuxu2R-8L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "reviews":"4.1 stars"
+  }
+],
+"mystry":[
+  {
+    "title":"The Time Machine",
+    "Author":"H.G.Wells",
+    "Desc":"Time machine is a mystry book ",
+    "category":"mystry",
+    "price":"400$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/51YP7fM361S._SX460_BO1,204,203,200_.jpg",
+    "reviews":"4 stars"
+  },
+  {
+    "title":"Treasure Island",
+    "Author":"Robert Louis",
+    "Desc":"Tresure Island is a mystry book ",
+    "category":"mystry",
+    "price":"20$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/512c4l+AUrS._SX258_BO1,204,203,200_.jpg",
+    "reviews":"4.2 stars"
+  },
+  {
+    "title":"Dark Matter",
+    "Author":"Andy weir",
+    "Desc":"Dark Matter is a mystry book ",
+    "category":"mystry",
+    "price":"510$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/51cZtJ0Z+BL._SY344_BO1,204,203,200_.jpg",
+    "reviews":"2 stars"
+  }
+],
+"mythology":[
+  {
+    "title":"The Magical Book",
+    "Author":"Sai chander akula",
+    "Desc":"TThe magical book is a mythological book ",
+    "category":"mythology",
+    "price":"40$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/413-sS7Rv6L._SX311_BO1,204,203,200_.jpg",
+    "reviews":"1.2 stars"
+  },
+  {
+    "title":"Kalki",
+    "Author":"Kevin Missal",
+    "Desc":"The kalki is a mythological book ",
+    "category":"mythology",
+    "price":"50$",
+    "image":"https://rukminim1.flixcart.com/image/416/416/kqidx8w0/book/v/z/h/dharmayoddha-kalki-original-imag4g5uygqfmegj.jpeg?q=70",
+    "reviews":"4 stars"
+  },
+  {
+    "title":"The Hidden Hindu",
+    "Author":"Akshat Gupta",
+    "Desc":"the hidden hindu is a mythological book ",
+    "category":"mythology",
+    "price":"420$",
+    "image":"https://images-eu.ssl-images-amazon.com/images/I/51pZWKAG3WL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "reviews":"4.7 stars"
+  }
+],
+"technology":[
+  {
+    "title":"The Code Breaker",
+    "Author":"Walter Issac Son",
+    "Desc":"the code breaker is a technology book ",
+    "category":"technology",
+    "price":"10$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/71Ufx2mJB9L.jpg",
+    "reviews":"3.1 stars"
+  },
+  {
+    "title":"New Thinking",
+    "Author":"Dagogo Altraide",
+    "Desc":"New Thinking is a technology book ",
+    "category":"technology",
+    "price":"100$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/51r5ILsoJTL._SX321_BO1,204,203,200_.jpg",
+    "reviews":"4.5 stars"
+  },
+  {
+    "title":"Life 3.0 ",
+    "Author":"Max Tegmark",
+    "Desc":"Life 3.0 is a technology book ",
+    "category":"technology",
+    "price":"400$",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/81stAN0dMBL.jpg",
+    "reviews":"4.1 stars"
+  }
+]
+}
